@@ -1,0 +1,5 @@
+{
+  "name": "Google Deploy",
+  "description": "A powerful tool to import projects from GitHub or local files and deploy them directly to Netlify with real-time preview.",
+  "requestFramePermissions": []
+}
